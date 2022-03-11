@@ -12,3 +12,4 @@
   Program in main.c file is fixed. It prints each value of <code>value_set</code> array in binary format and new line.
 
   ## Programming Task
+My solution of this problem is in programming_task.c file.
