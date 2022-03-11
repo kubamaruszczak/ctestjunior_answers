@@ -6,4 +6,6 @@
 
 3. When <code>#include <...></code> is used included file will be searched in the default compiler library files directory. When <code>#include "..."</code> is used file will be searched firstly in the current project folder and then in the the default compiler library files directory.
 
-4.
+4. Dynamic memory allocation is the process of allocating memory during the run time. It is allocated in heap. There are functions called malloc, calloc, realloc and free which are used for dynamic memory allocation.
+  
+  ## Problem solving
