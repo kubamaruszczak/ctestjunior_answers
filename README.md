@@ -4,4 +4,4 @@
 
 2. Keyword "void" is used when writting the function which won't return any value or when the function doesn't have any parameters -> void fun_name(void);. Keyword "void" can also be used when defining void pointers.
 
-3. The difference is <code>#include
+3. The difference is <code>#include</code>
