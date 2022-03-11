@@ -4,4 +4,4 @@
 
 2. Keyword "void" is used when writting the function which won't return any value or when the function doesn't have any parameters -> <code>void fun_name(void);</code>. Keyword "void" can also be used when defining void pointers.
 
-3. When <code>#include <...></code> is used included file will be searched in the default compiler library files directory. When <code>#include "..." is used file will be searched firstly in the current project folder and then in the the default compiler library files directory.
+3. When <code>#include <...></code> is used included file will be searched in the default compiler library files directory. When <code>#include "..."</code> is used file will be searched firstly in the current project folder and then in the the default compiler library files directory.
