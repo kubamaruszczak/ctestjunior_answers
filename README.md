@@ -9,4 +9,4 @@
 4. Dynamic memory allocation is the process of allocating memory during the run time. It is allocated in heap. There are functions called malloc, calloc, realloc and free which are used for dynamic memory allocation.
   
   ## Problem solving
-  Program in main.c file is fixed. It prints each value of <code>value_set</code> array in binary foramt and new line.
+  Program in main.c file is fixed. It prints each value of <code>value_set</code> array in binary format and new line.
